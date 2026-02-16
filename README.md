@@ -1,1 +1,1 @@
-# frist_kotlinapp
+# primer_kotlin_app
